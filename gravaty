@@ -1,0 +1,1 @@
+javascript:var%20script%20=%20document.createElement(%22script%22);%20script.src=%22//gravityscript.github.io/grav.js%22;%20document.body.appendChild(script);void(0);
