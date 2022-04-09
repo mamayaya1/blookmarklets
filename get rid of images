@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction%20toArray%20(c)%7Bvar%20a,%20k;a=new%20Array;for%20(k=0;%20k%20%3C%20c.length;%20++k)a%5Bk%5D=c%5Bk%5D;return%20a;%7Dvar%20images,%20img,%20altText;images=toArray(document.images);for%20(var%20i=0;%20i%20%3C%20images.length;%20++i)%7Bimg=images%5Bi%5D;altText=document.createTextNode(img.alt);img.parentNode.replaceChild(altText,%20img)%7D%7D)();
