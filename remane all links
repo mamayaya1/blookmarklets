@@ -1,0 +1,1 @@
+javascript:%20(function()%20%7B%20%20var%20anchors%20=%20document.getElementsByTagName('a');%20%20var%20name%20=%20prompt('Name%20of%20links:');%20%20for%20(var%20i%20=%200;%20i%20%3C%20anchors.length;%20i++)%20%7B%20%20%20%20anchors%5Bi%5D.innerHTML%20=%20name;%20%20%7D%7D)();
