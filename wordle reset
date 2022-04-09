@@ -1,0 +1,1 @@
+javascript:(function(e){if(/nytimes.com\/games\/wordle/.test(location.href)){window.localStorage.setItem('nyt-wordle-state',JSON.stringify({lastPlayedTs:1}));window.location.reload()}})()
