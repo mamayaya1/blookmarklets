@@ -1,0 +1,1 @@
+javascript:%20(function()%20%7B%20%20if%20(location.protocol%20==%20'http:')%20%7B%20%20%20%20location.href%20=%20%20%20%20%20%20'https:'%20+%20%20%20%20%20%20window.location.href.substring(window.location.protocol.length);%20%20%7D%7D)();
