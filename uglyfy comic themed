@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20all%20=%20document.getElementsByTagName('*');%20for%20(var%20i=0,%20max=all.length;%20i%20%3C%20max;%20i++)%20%7Ball%5Bi%5D.style.backgroundColor%20='%23'+Math.floor(Math.random()*16777215).toString(16);%7D%7D)();
