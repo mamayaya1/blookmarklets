@@ -1,0 +1,1 @@
+javascript:%20(function()%20%7B%20%20function%20annoy()%20%7B%20%20%20%20alert('annoy');%20%20%20%20annoy();%20%20%7D%20%20annoy();%7D)();
