@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20i,l,styles%20=%20document.styleSheets;for(i=0,l=styles.length;i%3Cl;i++)%7Bstyles%5Bi%5D.disabled%20=%20true;%7D%7D)()
