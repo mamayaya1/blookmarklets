@@ -1,0 +1,1 @@
+javascript:alert('Number%20of%20links%20on%20this%20page:%20'%20+%20document.links.length);
