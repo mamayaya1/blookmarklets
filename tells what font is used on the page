@@ -1,0 +1,1 @@
+javascript:(function(){var d=document,s=d.createElement('scr'+'ipt'),b=d.body,l=d.location;s.setAttribute('src','http://chengyinliu.com/wf.js?o=%27+encodeURIComponent(l.href)+%27&t=%27+(new%20Date().getTime()));b.appendChild(s)})();
