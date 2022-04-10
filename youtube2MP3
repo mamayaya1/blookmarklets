@@ -1,0 +1,1 @@
+javascript:window.location=document.URL.replace("https://www.youtube.com/watch?v=%22,%22https://ytmp3.com/download/%22);
