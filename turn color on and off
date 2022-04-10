@@ -1,0 +1,1 @@
+javascript:void function(){(function(){function i(i){document.body.style.filter=i,document.body.style.webkitFilter=i}window.isGrayscale%3F(i("none"),window.isGrayscale=!1):(i("grayscale(1)"),window.isGrayscale=!0)})()}();
